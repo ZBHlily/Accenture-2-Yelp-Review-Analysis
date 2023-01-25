@@ -47,7 +47,7 @@ sentiment. By building a supervised model, the participants can identify which w
 ### **SUMMARY**
 Determine the top keywords that make a good and bad restaurant depending on its' dishes, recipe inspiration, service, environment, and occasion
 
-For more information, refer to the presentation: ![AI Studio Final Project Presentation .jpg](https://docs.google.com/presentation/d/1Y6DlU65_q1yw9BIN7BShPtX1pxM0DBrv06_p0HQJ2u4/edit?usp=sharing)
+For more information, refer to the presentation: https://docs.google.com/presentation/d/1Y6DlU65_q1yw9BIN7BShPtX1pxM0DBrv06_p0HQJ2u4/edit?usp=sharing
 
 
 ----
@@ -59,5 +59,5 @@ For more information, refer to the presentation: ![AI Studio Final Project Prese
     - Add more categories of cuisine
        -  more dish options like having a Hawaiian cuisine or korean cuisine
 3. Pipeline
-    - Deploy Pipeline:
+    - Deploy Pipeline
        -  New business owners can use our insights to see what customers are looking for in that particular country/cuisine 
