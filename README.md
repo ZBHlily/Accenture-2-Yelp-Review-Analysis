@@ -48,7 +48,7 @@ sentiment. By building a supervised model, the participants can identify which w
 ----
 
 ### **SUMMARY**
-Determine what makes a good and bad restaurant depending on its' dishes, recipe inspiration, service, environment, and occasion. The restaurants were broken up into five different categories such as seafood, italian, cafe, asian, and nightlife. 
+Determine what makes a restaurant successfully depending on its' dishes, recipe inspiration, service, environment, and occasion. The restaurants were broken up into five different categories such as seafood, italian, cafe, asian, and nightlife. 
 1. **Cafe**
     - Top Keywords from Topic Modeling
        - Positive: homemade, creamy, fresh, breakfast, lunch, quickly, grab, coffee, tea, drink, local, friendly, selection, warm, tasty, price, atmosphere
