@@ -11,7 +11,7 @@ A restaurant group approaches Accenture as they need help identifying certain at
 
 ----
 
-### **Dataset Description:**
+### **DATASET DESCRIPTION:**
 
 The datasets will be pulled from Yelp's website which provides files on restaurant data (including reviews, pictures, and restaurant details.)These datasets include numerical data, text descriptions, and images. There are additional Yelp datasets available on Kaggle.
 
@@ -51,7 +51,7 @@ For more information, refer to the presentation: https://docs.google.com/present
 
 
 ----
-### **Next Steps**
+### **NEXT STEPS**
 1. Regions
     - Filter out specific regions
        -  for all 50 states or even cities since each of them have different tastes and preferences
