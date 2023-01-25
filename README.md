@@ -16,7 +16,7 @@ A restaurant group approaches Accenture as they need help identifying certain at
 ### **DATASET DESCRIPTION:**
 
 The datasets will be pulled from Yelp's website which provides files on restaurant data (including reviews, pictures, and restaurant details.)These datasets include numerical data, text descriptions, and images. There are additional Yelp datasets available on Kaggle.
-
+![](https://github.com/ZBHlily/Accenture-2-Yelp-Review-Analysis/blob/main/yelp_dataset.png)
 
 ----
 
@@ -53,7 +53,6 @@ Determine what makes a good and bad restaurant depending on its' dishes, recipe 
     - Top Keywords from Topic Modeling
        - Positive: homemade, creamy, fresh, breakfast, lunch, quickly, grab, coffee, tea, drink, local, friendly, selection, warm, tasty, price, atmosphere
        - Negative: wrong, order, wanted, cold, stale, flaky, bland, portion, flavor, quality, rude, long, waiting line, service, wait, lines, priced, pricey  
-    
     - Insights: 
        - Occasion: Breakfast & Lunch
        - Food: More Flavors, Homemade, and creamy foods
@@ -64,7 +63,6 @@ Determine what makes a good and bad restaurant depending on its' dishes, recipe 
     - Top Keywords from Topic Modeling
        - Positive: fresh, portion, big, wait, quickly, dinner, nightisland, beach, atmosphere, bar 
        - Negative: soggy, grease, tasteless, bland, sweet, salty, cold,  waiter, rude, hungry, waited, slow, price
-  
     - Insights: 
        - Occasion: Dinner & Night
        - Food: Fresh food, Big portions
