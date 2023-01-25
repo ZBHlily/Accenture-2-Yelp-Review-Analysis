@@ -43,11 +43,34 @@ sentiment. By building a supervised model, the participants can identify which w
     - Determine top features (definition) that lead to positive/negative sentiments help restaurant to find top features
     - Advised to use segmentation to split up the reviews into dishes and service, and clustering
 
+![](https://github.com/ZBHlily/Accenture-2-Yelp-Review-Analysis/blob/main/topic_modeling_cafe.png)
 
 ----
 
 ### **SUMMARY**
-Determine the top keywords that make a good and bad restaurant depending on its' dishes, recipe inspiration, service, environment, and occasion
+Determine what makes a good and bad restaurant depending on its' dishes, recipe inspiration, service, environment, and occasion. The restaurants were broken up into five different categories such as seafood, italian, cafe, asian, and nightlife. 
+1. **Cafe**
+    - Top Keywords from Topic Modeling
+       - Positive: homemade, creamy, fresh, breakfast, lunch, quickly, grab, coffee, tea, drink, local, friendly, selection, warm, tasty, price, atmosphere
+       - Negative: wrong, order, wanted, cold, stale, flaky, bland, portion, flavor, quality, rude, long, waiting line, service, wait, lines, priced, pricey  
+    
+    - Insights: 
+       - Occasion: Breakfast & Lunch
+       - Food: More Flavors, Homemade, and creamy foods
+       - Environment: Friendly atmosphere, local; location at downtown, chinatown
+       - Service: Correct order and ready quickly 
+
+2. **Seafood**
+    - Top Keywords from Topic Modeling
+       - Positive: fresh, portion, big, wait, quickly, dinner, nightisland, beach, atmosphere, bar 
+       - Negative: soggy, grease, tasteless, bland, sweet, salty, cold,  waiter, rude, hungry, waited, slow, price
+  
+    - Insights: 
+       - Occasion: Dinner & Night
+       - Food: Fresh food, Big portions
+       - Environment: Nice and clean atmosphere, Have a bar, Location at island or beach 
+       - Service: Friendly service, Quick wait time
+
 
 For more information, refer to the presentation: https://docs.google.com/presentation/d/1Y6DlU65_q1yw9BIN7BShPtX1pxM0DBrv06_p0HQJ2u4/edit?usp=sharing
 
