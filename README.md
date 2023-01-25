@@ -1,3 +1,5 @@
+![What is this] (https://github.com/ZBHlily/Accenture-2-Yelp-Review-Analysis/blob/main/AI%20Studio%20Final%20Project%20Presentation%20.jpg)
+
 # Accenture #2 - Yelp Review Analysis
 
 **MEMBERS:** Weijia Song, Lily Liang, Daphne Tang, Stephanie Moreira
